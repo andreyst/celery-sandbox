@@ -1,7 +1,7 @@
 Intro
 =====
 
-A celery sandbox to play with different celery backends.
+A [celery](http://www.celeryproject.org/) sandbox to play with different celery backends.
 
 Instructions
 ============
